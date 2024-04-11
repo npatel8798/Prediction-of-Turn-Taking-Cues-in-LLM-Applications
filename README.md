@@ -10,8 +10,8 @@ Project Guide: \
 Prof. Francis Ferraro, \
 Assistant Professor, \
 Department of Computer Science and Electrical Engineering, \
-University of Maryland Baltimore County (UMBC). \
+University of Maryland Baltimore County (UMBC).
 
 Developement Team: \
 Neel Patel(MS in CS, UMBC) \
-Patricia Delafuente (NVIDIA and UMBC) \
+Patricia Delafuente (NVIDIA and UMBC)
